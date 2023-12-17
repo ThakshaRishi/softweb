@@ -35,7 +35,7 @@ home.html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RT_Home</title>
+    <title>Home</title>
     <style>
         *{
             margin:0;
@@ -116,7 +116,7 @@ home.html
     <div class="header">
         <nav id="nav">
             <h1>
-                ResonanceTech
+                ByteCraft Innovations
             </h1>
                 <ul>
                     <li class="li1"> 
@@ -138,9 +138,8 @@ home.html
     <input placeholder="Search">
     </div>
         <div><pre class="heading2"><b>
-"Shaping Sonic Brilliance- Elevating
-your audio encounters with
-precision and passion."<b></pre></div>
+"Crafting Code, Shaping Solutions:
+Your Vision, Our Mission."<b></pre></div>
         <div class="edge">
             <div class="box">
                 <div class="login">
@@ -168,13 +167,13 @@ precision and passion."<b></pre></div>
 </body>
 <html>
 
- products.html
+products.html
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RT_Products</title>
+    <title>PRODUCTS</title>
     <style>
         *{
             margin:0;
@@ -250,7 +249,7 @@ precision and passion."<b></pre></div>
 <body background="background.jpeg">
     <div class="header">
         <nav id="nav">
-            <h1 class="heading1">ResonanceTech</h1>
+            <h1 class="heading1">ByteCraft Innovations</h1>
                 <ul>
                     <li class="li1"> 
                         <a href="home.html" target="_blank">Home  |</a>
@@ -271,20 +270,35 @@ precision and passion."<b></pre></div>
         <br>
         <div class="product">
             <div class="box">
-                <img src="neckband.png" width="250px">
-                <h1>InfinityNeck</h1>
-                <p>Elevate your audio experience with style and comfort. Unleash seamless sound anytime, anywhere with this sleek neckband. </p>
+                <img src="adobe.png" width="150px">
+                <h1>Adobe Creative Cloud Suite</h1>
+                <p>Photoshop, Illustrator & More.</p>
             </div>
             <div class="box">
-                <img src="earpods.png" width="273px">
-                <h1>PulsePods</h1>
-                <p>Unleash Pure Sound Freedom. Immerse yourself in the rhythm of wireless brilliance with PulsePods- where compact design meets unparalleled audio quality. </p>
-            </div>
+                <img src="maple.png" width="260px">
+                <h1>Maple</h1>
+                <p>Statistical Package</p>
+                </div>
             <div class="box">
-                <img src="headphones.png" width="240px">
-                <h1>SonicElite Headphones</h1>
-                <p>Where comfort meets precision, immerse in superior sound. Crafted for style and engineered for experience, elevate your auditory experience.</p>
-            </div>
+                <img src="sas.png" width="245px">
+                <h1>SAS</h1>
+                <p>Statistical Analysis System.</p>
+                </div>
+            <div class="box">
+                <img src="matlab.png" width="180px">
+                <h1>Matlab</h1>
+                <p>Coding Software</p>
+                </div>
+            <div class="box">
+                <img src="pycharm.png" width="120px">
+                <h1>Jetbrains Pycharm</h1>
+                <p>Computer Programming</p>
+                </div>
+            <div class="box">
+                <img src="office.png" width="360px">
+                <h1>Microsoft Office Suite</h1>
+                <p>Word, Powerpoint, Excel & More.</p>
+                </div>
         </div>
     </div>
     <div class="bottomdiv">
@@ -299,7 +313,7 @@ person.html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RT_People</title>
+    <title>People</title>
     <style>
         *{
             margin:0;
@@ -372,7 +386,7 @@ person.html
 <body background="background.jpeg">
     <div class="header">
         <nav id="nav">
-            <h1 class="heading1">ResonanceTech</h1>
+            <h1 class="heading1">ByteCraft Innovations</h1>
                 <ul>
                     <li class="li1"> 
                         <a href="home.html" target="_blank">Home  |</a>
@@ -389,7 +403,7 @@ person.html
                 </ul>
             </nav>
         </div>
-        <h1 class="heading2">People</h1>
+        <h1 class="heading2">PEOPLE</h1>
         <table class="person">
             <tr>
                 <td>
@@ -451,7 +465,7 @@ contactus.html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RT_ContactUs</title>
+    <title>ContactUs</title>
     <style>
         *{
             margin:0;
@@ -553,7 +567,7 @@ contactus.html
 <body background="background.jpeg">
     <div class="header">
         <nav id="nav">
-            <h1 class="heading1">ResonanceTech</h1>
+            <h1 class="heading1">ByteCraft Innovations</h1>
                 <ul>
                     <li class="li1"> 
                         <a href="home.html" target="_blank">Home  |</a>
@@ -594,7 +608,7 @@ contactus.html
                         Email :
                     </td>
                     <td>
-                        resonancetech@gmail.com
+                        bytecraftinnovations@gmail.com
                     </td>
                 </tr>
                 <tr>
@@ -657,6 +671,5 @@ contactus.html
 ![Alt text](productspage.png)
 ![Alt text](peoplepage.png)
 ![Alt text](contactpage.png)
-
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
