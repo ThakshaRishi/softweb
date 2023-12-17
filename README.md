@@ -655,8 +655,8 @@ contactus.html
 ## OUTPUT:
 ![Alt text](homepage.png)
 ![Alt text](productspage.png)
-![Alt text](<people page.png>)
-![Alt text](<contact page.png>)
+![Alt text](peoplepage.png)
+![Alt text](contactpage.png)
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
